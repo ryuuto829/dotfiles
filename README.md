@@ -70,7 +70,7 @@
 
 6. Install [Terminal Icons](https://github.com/devblackops/Terminal-Icons)
 7. Install [z](https://github.com/badmotorfinger/z)
-8. Update the profile using `powershell/Microsoft.PowerShell_profile.ps1`
+8. Update the profile using `powershell/Microsoft.PowerShell_profile.ps1` (PowerShell settings path - `$HOME\Documents\PowerShell`)
 
 ---
 
