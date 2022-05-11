@@ -1,0 +1,21 @@
+{
+  "coc.preferences.formatOnSaveFiletypes": [
+    "css",
+    "html",
+    "javascript",
+    "javascriptreact",
+    "json",
+    "jsonc",
+    "markdown",
+    "python",
+    "sass",
+    "scss",
+    "typescript",
+    "typescriptreact",
+    "xml"
+  ],
+  "coc.preferences.semanticTokensHighlights": false,
+  "coc.preferences.formatOnType": true,
+  "javascript.autoClosingTags": true,
+  "typescript.autoClosingTags": true
+}
